@@ -14,21 +14,21 @@ export default function Customer() {
             <FmdGood className="locationIcon" sx={{ fontSize: 70 }}/>
             <div className="locationHeading">Connought Place</div>
             <div className="locationAddress">Shop No. 37, M-Block, Connought Place, New Delhi - 110001</div>
-            <a href="https://maps.app.goo.gl/RK45LhU59Z3GiN3y9">
+            <a href="https://maps.app.goo.gl/RK45LhU59Z3GiN3y9" target="_blank">
             <button className="locationButton">View on Map</button></a>
         </div>
         <div className="locationSection">
             <FmdGood className="locationIcon" sx={{ fontSize: 70 }}/>
             <div className="locationHeading">Saket</div>
             <div className="locationAddress">3/14, D-Block, Saket, New Delhi  - 110017</div>
-            <a href="https://maps.app.goo.gl/B9NTP7k42scokJKt9">
+            <a href="https://maps.app.goo.gl/B9NTP7k42scokJKt9" target="_blank">
             <button className="locationButton">View on Map</button></a>
         </div>
         <div className="locationSection">
             <FmdGood className="locationIcon" sx={{ fontSize: 70 }}/>
             <div className="locationHeading">Dwarka Sector-14</div>
             <div className="locationAddress">No. 435, Central Market, Sector 14, Dwarka, New Delhi - 110078</div>
-            <a href="https://maps.app.goo.gl/1PUjoPH1dRWgCbNo8">
+            <a href="https://maps.app.goo.gl/1PUjoPH1dRWgCbNo8" target="_blank">
             <button className="locationButton">View on Map</button></a>
         </div>
       </div>
