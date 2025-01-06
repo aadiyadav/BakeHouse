@@ -1,8 +1,8 @@
-# Bakery Website
+# Bake House Bakery
 
 ![Screenshot 2025-01-06 232647](https://github.com/user-attachments/assets/3c778000-9a6e-42d8-9cfd-2fa5e354b794)
 
-Welcome to the Bake House Bakery - Bakery Website project! This multi-page front-end application is designed to provide an interactive and smooth user experience for bakery enthusiasts. The design is crafted from scratch to ensure a unique and engaging interface.
+Welcome to the Bake House Bakery - a Bakery Website project! This multi-page front-end application is designed to provide an interactive and smooth user experience for bakery enthusiasts. The design is crafted from scratch to ensure a unique and engaging interface.
 
 ## Tech Stack
 
