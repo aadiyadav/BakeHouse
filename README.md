@@ -1,70 +1,59 @@
-# Getting Started with Create React App
+# Bakery Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Screenshot 2025-01-06 232647](https://github.com/user-attachments/assets/3c778000-9a6e-42d8-9cfd-2fa5e354b794)
 
-## Available Scripts
+Welcome to the Bake House Bakery - Bakery Website project! This multi-page front-end application is designed to provide an interactive and smooth user experience for bakery enthusiasts. The design is crafted from scratch to ensure a unique and engaging interface.
 
-In the project directory, you can run:
+## Tech Stack
 
-### `npm start`
+- **React.js**: A JavaScript library for building user interfaces.
+- **NPM Create-React-App**: A tool to set up a new React.js project with a sensible default configuration.
+- **External CSS**: For styling the components and pages.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Multi-page layout for a comprehensive browsing experience.
+- Interactive UI with smooth transitions and animations.
+- Custom design tailored for a bakery theme.
+- Responsive design to ensure compatibility with various devices.
 
-### `npm test`
+## Pre-requisites
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Before you begin, ensure you have met the following requirements:
 
-### `npm run build`
+- **Node.js**: You will need Node.js installed on your machine. You can download it from [nodejs.org](https://nodejs.org/).
+- **NPM**: Node Package Manager, which comes with Node.js, is required to manage dependencies.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## How to Run the Project on a Local Host
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+To run this project locally, follow these steps:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. **Clone the repository**:
+   ```bash
+   https://github.com/aadiyadav/BakeHouse.git
+   ```
 
-### `npm run eject`
+2. **Navigate to the project directory**:
+   ```bash
+   cd BakeHouse
+   ```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+3. **Install dependencies**:
+   ```bash
+   npm install
+   ```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+4. **Start the development server**:
+   ```bash
+   npm start
+   ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+5. Open your browser and go to `http://localhost:3000` to view the website.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Deployed Link
 
-## Learn More
+You can view the live version of the project at: https://bake-house-bakery.vercel.app/
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Feel free to contribute to the project by submitting issues or pull requests. Enjoy exploring the Bakery Website!
